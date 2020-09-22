@@ -10,7 +10,9 @@
 ## [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 
 [Plotting Weather Patterns](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Plotting_Weather_Patterns)
+
 [Building a Custom Visualization](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Building_a_Custom_Visualization.html)
+
 [2020 US Democratic Candidates](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/2020_US_Democratic_Candidates.html)
 
 ## [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
