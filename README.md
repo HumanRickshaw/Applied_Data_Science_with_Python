@@ -19,4 +19,6 @@
 
 ## [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 
+[Dates Cleanup](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Dates_Cleanup.html)
+
 ## [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
