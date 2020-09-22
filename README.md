@@ -9,7 +9,7 @@
 
 ## [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 
-[Plotting Weather Patterns](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Plotting_Weather_Patterns)
+[Plotting Weather Patterns](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Plotting_Weather_Patterns.html)
 
 [Building a Custom Visualization](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Building_a_Custom_Visualization.html)
 
