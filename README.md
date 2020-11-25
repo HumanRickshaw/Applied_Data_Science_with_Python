@@ -17,8 +17,12 @@
 
 ## [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
 
+[Understanding and Predicting Property Maintenance Fines](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Understanding_and_Predicting_Property_Maintenance_Fines.html)
+
 ## [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 
 [Dates Cleanup](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Dates_Cleanup.html)
+[Introduction to NLTK](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Introduction_to_NLTK.html)
+[Predict from Text](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Predict_from_Text.html)
+[Document Similarity and Topic Modeling](https://humanrickshaw.github.io/Applied_Data_Science_with_Python/Document_Similarity_and_Topic_Modeling.html)
 
-## [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
